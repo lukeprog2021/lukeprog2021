@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web-Developer and back-end Python
 - 🌱 I am currently learning software engineering
 - 💞️ I’m looking to collaborate on web developer
-- 📫 How to reach me (43) 99871-0308
+- 📲 How to reach me (43) 99871-0308
+- 📩 My email is lucas.silva2468@hotmal.com
 
 <!---
 lukeprog2021/lukeprog2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
