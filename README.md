@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-## Linguagens e ferramentas
+## Languages and Frameworks
 - Currently I study Java, Angular, Node.js, TypeScript
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" width="40" height="40" />
