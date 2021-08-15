@@ -1,5 +1,5 @@
 # Hi 👋, I’m @lukeprog2021
-- 👀 I’m interested in Web-Developer and back-end Python
+- 👀 I’m interested in Web Developer and back-end Python
 - 🌱 I am currently learning software engineering
 - 💞️ I’m looking to collaborate on web developer
 - 📲 How to reach me (43) 99871-0308
