@@ -32,16 +32,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/dnmfarrell/Perl-Icons/blob/master/Icons/Perl_Onion_Color.svg" alt="perl" width="40" height="40" />
 </p>
 
-## My repositorys
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeprog2021&layout=compact&theme=graywhite&title_color=268bd2" alt="Lucas-Silva" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lukeprog2021&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Lucas-Silva" />
-</p>
-
 
 ## About me
 <p align="left">My name is Lucas, I'm 22 years old, currently studying Software Engineering at Universidade Tecnológica Federal do Paraná. I've always been passionate about technology and the potential it offers, even more today, so I decided to go down the path of engineering in the area of programming. I'm attentive and focused, I like challenges and adventure, I'm always looking for new things to learn. I am competitive and audacious. I'm dating a beautiful girl, I like to work in a team and perform in public, I'm humorous and outgoing. I dedicate a good part of my free time to God and to the social projects I am part of. I believe the word of the gospel changes lives. My phrase is “the overcoming, strength and sacrifice are the pillars of victory”. Connect to my LinkedIn network, get in touch and let's talk. Thanks for visiting my website, and come back often!</p>
